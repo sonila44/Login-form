@@ -18,7 +18,7 @@ body
     min-height: 100vh;
     min-width: 130vh;
     border: 10px solid rgba(36, 240, 255);
-    background: url('image/v1.jpg') no-repeat;
+    background: url('v1.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
